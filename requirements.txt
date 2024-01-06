@@ -1,9 +1,10 @@
 scikit-learn==0.24.2
-matplotlib
-seaborn
+matplotlib==3.8.2
+seaborn==0.13.1
 numpy==1.26.3
-pandas
-fastapi
-tfx
-uvicorn
-kfp
+python-snappy==0.6.1
+pandas==2.1.4
+fastapi==0.108.0
+tfx==1.14.0
+uvicorn==0.25.0
+kfp==2.4.0
